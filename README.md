@@ -10,9 +10,9 @@ The dataset is organized in the following structure:
 - **Documentation Directory**: Contains documentation files providing additional information about the dataset.
 - **Examples Directory**: Contains example scripts or notebooks demonstrating how to use the dataset.
 
-## Content
-- [Data File 1](./data/data_file_1.csv): Description of contents.
-- [Data File 2](./data/data_file_2.xlsx): Description of contents.
+## ContentS
+- [List of objects](./data/data_file_1.csv): 3 different type objects have been used, House1(small), House2(big) and Hut
+- [height of UAV](./data/data_file_2.xlsx): UAV caotures images using downward facing camera at different heights 
 - [Documentation](./documentation): Additional documentation and metadata.
 - [Examples](./examples): Example scripts and notebooks.
 

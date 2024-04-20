@@ -1,0 +1,33 @@
+# Dataset Repository: LandUAVSafe 
+
+## Description
+This repository contains a dataset [brief description of what the dataset is about]. The dataset is primarily aimed at [describe the intended use or audience]. 
+
+## Structure
+The dataset is structured as follows:
+
+- **File Name 1**: RGB Images
+- **File Name 2**: Ground truth (labels)
+- ...
+
+[Add more details about the structure of the dataset if needed]
+
+## Content
+- [Link to Dataset File 1]
+- [Link to Dataset File 2]
+- ...
+
+## Usage
+[Provide instructions or guidelines on how to use the dataset]
+
+## License
+[Specify the license under which the dataset is released]
+
+## Citation
+[Provide citation information for referencing the dataset]
+
+## Contributing
+[Guidelines for contributions, if applicable]
+
+## Issues
+[Encourage users to report any issues they encounter with the dataset]

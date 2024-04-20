@@ -25,3 +25,14 @@ This dataset is provided under the [Creative Commons Attribution-NonCommercial-S
 ## Citation
 If you use this dataset in your research or projects, please cite it as follows:
 
+
+
+
+
+## Contributing
+Contributions to this dataset repository are welcome! If you have additional data or improvements to existing data, please feel free to open a pull request.
+
+## Issues
+If you encounter any issues with the dataset or have suggestions for improvements, please [open an issue](../../issues). We appreciate your feedback!
+
+

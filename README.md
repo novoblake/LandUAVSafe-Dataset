@@ -12,7 +12,7 @@ The dataset is organized in the following structure:
 
 ## ContentS
 - [List of objects](./data/data_file_1.csv): 3 different type objects have been used, House1(small), House2(big) and Hut
-- [height of UAV](./data/data_file_2.xlsx): UAV caotures images using downward facing camera at different heights 
+- [height of UAV](./data/data_file_2.xlsx): UAV captures images using downward facing camera at different heights 
 - [Documentation](./documentation): Additional documentation and metadata.
 - [Examples](./examples): Example scripts and notebooks.
 

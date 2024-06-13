@@ -6,7 +6,7 @@ LandUAVSafe Dataset, for estimating surface inclination angle from images
 The dataset is organized in the following structure:
 
 - **Data Directory**: Contains the raw data files. RBG images
-- **Ground Truth**: Contains labels (inclination angle of surface in the image), As of now folders have been named according to inclincaiton angle.
+- **Ground Truth**: Contains labels (inclination angle of surface in the image), As of now folders have been named according to inclination angle.
 - **Documentation Directory**: Contains documentation files providing additional information about the dataset : To be updated
 - **Examples Directory**: Contains example scripts or notebooks demonstrating how to use the dataset: To be updated
 - **Folders**: House1_wood_45 (wood as surface material and 45 degree inclination), House2_brick_15 (Brick as surface material and 15 degree inclination), House2_wood_60 (Wood as surface meterial and 60 degree inclination), hut_tiled_30 (two inclinations 30 degree each), Mixed (contains all surface inclinatons and multiple objects in single frame) 
